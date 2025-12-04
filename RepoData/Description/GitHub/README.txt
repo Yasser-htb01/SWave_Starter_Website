@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🎵️🔰️📣️🌐️ The official source repository for the website of the SWave Starter project, a startup sound utility and startup sound library for various operating systems, letting you customize the startup sound of your computer/virtual machine easily. 
