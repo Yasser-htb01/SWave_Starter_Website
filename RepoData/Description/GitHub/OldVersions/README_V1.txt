@@ -1,0 +1,1 @@
+🎵️🔰️📣️🌐️ The official source repository for the website of the SWave Starter project, a startup sound utility and startup sound library for various operating systems, letting you customize the startup sound of your computer/virtual machine easily. 
